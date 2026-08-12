@@ -2,12 +2,6 @@
 
 <div align="center">
 
-<br>
-
-Criador de produtos digitais para o mercado de serviços.
-
-<br>
-
 </div>
 
 <div align="center">
