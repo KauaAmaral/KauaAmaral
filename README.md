@@ -1,10 +1,6 @@
-<!-- Minimal professional GitHub profile README -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:0D9488,100:111111&height=150&section=header&text=Kau%C3%A3%20Amaral&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 
 <div align="center">
-
-
 
 <br>
 
@@ -22,21 +18,17 @@ Produtos
 <tr>
 <td width="50%" align="center">
 
-LinkBarber
+<img src="https://img.shields.io/badge/SAAS-LINKBARBER-111111?style=flat-square&labelColor=0D9488"/>
 
 Gestão para barbearias e barbeiros.
-
-<img src="https://img.shields.io/badge/SAAS-LINKBARBER-111111?style=flat-square&labelColor=0D9488"/>
 
 </td>
 
 <td width="50%" align="center">
 
-LinkBeauty
+<img src="https://img.shields.io/badge/SAAS-LINKBEAUTY-111111?style=flat-square&labelColor=0D9488"/>
 
 Gestão para negócios da beleza.
-
-<img src="https://img.shields.io/badge/SAAS-LINKBEAUTY-111111?style=flat-square&labelColor=0D9488"/>
 
 </td>
 </tr>
