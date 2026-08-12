@@ -1,4 +1,3 @@
-````html
 <!-- HEADER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00BFBF,100:0066FF&height=160&section=header&text=Kauã%20Amaral&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
