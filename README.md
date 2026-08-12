@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Produtos
+Founder
 
 <table>
 <tr>
@@ -31,10 +31,6 @@ Gestão para negócios da beleza.
 </div>
 
 <div align="center">
-
-Kauã Amaral
-
-Founder · Developer · Product
 
 <br>
 
